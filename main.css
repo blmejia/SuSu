@@ -4,6 +4,14 @@ body{
     overflow-y: hidden;
     
 }
+.sticky-nav{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    height: 7vh;
+    position:sticky;
+}
 .landing{
     height: 100vh;
     width: auto;
