@@ -5,7 +5,7 @@ body{
     
 }
 .landing{
-    height: 90vh;
+    height: 100vh;
     width: auto;
     display: flex;
     background-image: linear-gradient(to right bottom, #1f204e, #381e4c, #4a1b47, #59193f, #641a36, #6b213e, #732847, #7a2f50, #7a3f6e, #71528a, #5e65a0, #4377b0);
