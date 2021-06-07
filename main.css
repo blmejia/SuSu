@@ -15,8 +15,8 @@ body{
     
 }
 img{
-    width: 100%;
-    height: auto;
+    width: 80%;
+    height: fit-content;
 }
 
 a.button4{
