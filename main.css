@@ -5,12 +5,12 @@ body{
     
 }
 .sticky-nav{
-    display: flex;
-    justify-content: center;
-    align-items: center;
+    
     width: 100%;
     height: 7vh;
-    position:sticky;
+    position: fixed;
+    text-align: center;
+    
 }
 .landing{
     height: 100vh;
