@@ -47,7 +47,7 @@ a.button4{
     text-shadow: 0 0.04em 0.04em rgba(0,0,0,0.35);
     text-align:center;
     transition: all 0.2s;
-    height: 5vh;
+    height: 8vh;
     margin-bottom: 10%;
     }
     a.button4:hover{
